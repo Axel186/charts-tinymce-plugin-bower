@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "charts-tinymce-plugin",
+        "scope": null,
+        "escapedName": "charts-tinymce-plugin",
+        "name": "charts-tinymce-plugin",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/roman/Desktop/test"
+    ]
+  ],
+  "_from": "charts-tinymce-plugin@latest",
+  "_id": "charts-tinymce-plugin@0.1.0",
+  "_inCache": true,
+  "_location": "/charts-tinymce-plugin",
+  "_nodeVersion": "6.11.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/charts-tinymce-plugin-0.1.0.tgz_1501161253564_0.7479274531360716"
+  },
+  "_npmUser": {
+    "name": "axel186",
+    "email": "Axel186@Gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "charts-tinymce-plugin",
+    "scope": null,
+    "escapedName": "charts-tinymce-plugin",
+    "name": "charts-tinymce-plugin",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/charts-tinymce-plugin/-/charts-tinymce-plugin-0.1.0.tgz",
+  "_shasum": "7dd6b9558098a16fe84238d76ea9e3df902d2cd5",
+  "_shrinkwrap": null,
+  "_spec": "charts-tinymce-plugin",
+  "_where": "/home/roman/Desktop/test",
+  "author": {
+    "name": "Roman Axelrod"
+  },
+  "bugs": {
+    "url": "https://github.com/Axel186/charts-tinymce-plugin/issues"
+  },
+  "dependencies": {},
+  "description": "Add charts into your content (Tinymce plugin) ",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "7dd6b9558098a16fe84238d76ea9e3df902d2cd5",
+    "tarball": "https://registry.npmjs.org/charts-tinymce-plugin/-/charts-tinymce-plugin-0.1.0.tgz"
+  },
+  "homepage": "https://github.com/Axel186/charts-tinymce-plugin#readme",
+  "keywords": [
+    "charts",
+    "tinymce",
+    "plugin"
+  ],
+  "license": "MIT",
+  "main": "plugin.js",
+  "maintainers": [
+    {
+      "name": "axel186",
+      "email": "Axel186@Gmail.com"
+    }
+  ],
+  "name": "charts-tinymce-plugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axel186/charts-tinymce-plugin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.1"
+}
